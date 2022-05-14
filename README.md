@@ -70,7 +70,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-## A Cutomer Management SPA
+##<h1 align="center">Expense Tracker</h1>
+
+This is a SPA made with React JS and the components are designed using MUI.
+This is just the FrontEnd part designed to learn MUI and its components.
+
+
+![image](https://user-images.githubusercontent.com/37900854/168439166-f57c94ee-fa84-46d2-aa4b-7b22d60b2ac9.png)
+
+
+
+![image](https://user-images.githubusercontent.com/37900854/168439205-891c7911-ed6e-40a0-9a3d-7fb662d1e1d6.png)
+
 
 
 
